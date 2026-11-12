@@ -1,0 +1,57 @@
+alimento,grupo,kcal_100g,medida,g_medida,cocciones
+Arroz,carb,130,taza|tazas,160,hervido|salteado
+Papa,carb,77,unidad mediana|unidades medianas,150,hervido|al vapor|al horno|frito
+Yuca,carb,160,trozo mediano|trozos medianos,100,hervido|al vapor|frito
+Verde,carb,122,unidad mediana|unidades medianas,120,hervido|al horno|a la plancha|frito
+Fideos,carb,158,taza|tazas,140,hervido|salteado
+Pan integral,carb,250,rebanada|rebanadas,30,tal cual|tostado
+Avena,carb,370,taza (en seco)|tazas (en seco),80,hervido
+Quinua,carb,120,taza|tazas,185,hervido
+Choclo,carb,96,taza de granos|tazas de granos,140,hervido|al vapor|a la plancha
+Camote,carb,86,unidad mediana|unidades medianas,130,hervido|al horno|frito
+Tortilla de maíz,carb,218,unidad|unidades,30,tal cual|a la plancha
+Pollo,prot,165,presa mediana|presas medianas,100,a la plancha|al horno|hervido|al vapor|salteado|frito
+Carne de res,prot,200,porción del tamaño de la palma|porciones del tamaño de la palma,100,a la plancha|al horno|hervido|salteado|frito
+Pescado,prot,130,filete mediano|filetes medianos,120,al horno|a la plancha|al vapor|frito
+Atún,prot,130,lata pequeña|latas pequeñas,80,tal cual
+Camarón,prot,99,puñado|puñados,80,salteado|hervido|a la plancha|frito
+Huevo,prot,143,huevo|huevos,55,hervido|revuelto|frito
+Lentejas,prot,116,taza|tazas,180,hervido
+Frejol,prot,127,taza|tazas,170,hervido
+Garbanzo,prot,164,taza|tazas,160,hervido
+Queso fresco,prot,264,rebanada|rebanadas,30,tal cual|a la plancha
+Yogur natural,prot,61,taza|tazas,240,tal cual
+Leche,prot,61,taza|tazas,240,tal cual
+Tofu,prot,76,porción|porciones,100,a la plancha|salteado|al horno|tal cual
+Cerdo,prot,242,porción del tamaño de la palma|porciones del tamaño de la palma,90,al horno|a la plancha|hervido|frito
+Banano,fruit,89,unidad mediana|unidades medianas,120,crudo
+Manzana,fruit,52,unidad mediana|unidades medianas,180,crudo
+Naranja,fruit,47,unidad mediana|unidades medianas,150,crudo
+Papaya,fruit,43,taza picada|tazas picadas,150,crudo
+Mango,fruit,60,taza picada|tazas picadas,165,crudo
+Fresa,fruit,32,taza|tazas,150,crudo
+Piña,fruit,50,taza picada|tazas picadas,165,crudo
+Sandía,fruit,30,taza picada|tazas picadas,150,crudo
+Mora,fruit,43,taza|tazas,145,crudo
+Maracuyá,fruit,97,unidad|unidades,20,crudo
+Pera,fruit,57,unidad mediana|unidades medianas,180,crudo
+Uvas,fruit,69,taza|tazas,150,crudo
+Tomate,veg,18,unidad mediana|unidades medianas,120,crudo|salteado|al horno
+Cebolla,veg,40,rodaja gruesa|rodajas gruesas,40,crudo|salteado
+Zanahoria,veg,41,unidad mediana|unidades medianas,60,crudo|hervido|al vapor
+Brócoli,veg,34,taza|tazas,90,al vapor|hervido|salteado|crudo
+Espinaca,veg,23,taza|tazas,30,crudo|salteado
+Lechuga,veg,15,taza|tazas,40,crudo
+Pepino,veg,15,taza en rodajas|tazas en rodajas,105,crudo
+Pimiento,veg,26,unidad mediana|unidades medianas,120,crudo|salteado|al horno
+Col,veg,25,taza|tazas,90,crudo|hervido|salteado
+Zapallo,veg,26,taza|tazas,116,hervido|al horno|al vapor
+Vainitas,veg,31,taza|tazas,110,al vapor|hervido|salteado
+Coliflor,veg,25,taza|tazas,100,al vapor|hervido|al horno
+Remolacha,veg,43,taza|tazas,136,hervido|crudo
+Aguacate,fat,160,porción pequeña|porciones pequeñas,50,tal cual
+Aceite de oliva,fat,884,cucharada|cucharadas,13,tal cual
+Maní,fat,567,puñado|puñados,28,tal cual
+Almendras,fat,579,puñado|puñados,28,tal cual
+Nueces,fat,654,puñado|puñados,28,tal cual
+Semillas de chía,fat,486,cucharada|cucharadas,12,tal cual
